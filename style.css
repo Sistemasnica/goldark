@@ -1,0 +1,46 @@
+/*
+Theme Name: Nombre Plantilla
+Theme URI: http://www.dinterweb.com/
+Author: DinterWeb
+Description: Descripcion Plantilla
+Version: 1.0
+*/
+
+/*@import url('css/bootstrap.css');
+@import url('css/animate.css');*/
+
+/*@font-face {
+  font-family: 'HelveticaNeueLTStd-BlkCn';
+  src: url('fonts/HelveticaNeueLTStd-BlkCn.otf');
+}*/
+
+
+
+
+
+
+/* Hasta smartphones de 480px */
+@media (max-width: 480px) {}
+
+
+
+
+/* Smartphones Horizontales */
+@media (min-width: 481px) and (max-width: 640px) {}
+
+
+
+
+/* Smartphones de Alta Resolucion */
+@media (min-width: 641px) and (max-width: 767px) {}
+
+
+
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {}
+
+
+
+/* Pantallas de desktops */
+@media (min-width: 1024px) and (max-width: 1266px) {}
