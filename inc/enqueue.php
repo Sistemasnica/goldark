@@ -5,7 +5,9 @@
  * @package Dintercito
  */
 function dintercito_scripts() {
+	
     wp_enqueue_style( 'dintercito-bootstrap', get_stylesheet_directory_uri() . '/css/bootstrap/bootstrap.css', array(), '0.1.0');
+
     wp_enqueue_style( 'dintercito-styles', get_stylesheet_directory_uri() . '/style.css', array(), '0.1.0');
     
     wp_enqueue_script('jquery'); 
